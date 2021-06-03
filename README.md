@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kodencja
-- 👀 I’m interested in programming languages and frameworks especially JS (ES6), CSS3, SCSS, HTML5, REACT with HOOKS, BOOTSTRAP and others.
+- 👀 I’m interested in programming languages and frameworks especially front-end ones such as JS (ES6), CSS3, SCSS, HTML5, REACT with HOOKS, BOOTSTRAP and others.
 - 🌱 I’m currently learning React.js, Node.js
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me throught my portfoilo website: https://codencja.herokuapp.com/index.html
